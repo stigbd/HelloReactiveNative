@@ -7,6 +7,7 @@ Based on [The Baisics](https://reactnative.dev/docs/getting-started) and [Settin
 ## To run it
 
 ```Shell
+npm install
 npx react-native start
 ```
 
